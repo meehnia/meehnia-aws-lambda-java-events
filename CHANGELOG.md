@@ -1,4 +1,4 @@
-## [1.0.0] - 10-12-2019
+## [1.0.0] - 17-01-2020
 ### Added
 - ApplicationLoadBalancerRequestEvent
 - ApplicationLoadBalancerResponseEvent
